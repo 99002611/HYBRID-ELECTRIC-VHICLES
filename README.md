@@ -1,4 +1,4 @@
-## Hybrid Vehicle Project
+## Hybrid Electric Vehicles:
 
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/e5ad5e3028aa492996650871468247fe)](https://app.codacy.com/manual/99002611/HYBRID-ELECTRIC-VHICLES?utm_source=github.com&utm_medium=referral&utm_content=99002611/HYBRID-ELECTRIC-VHICLES&utm_campaign=Badge_Grade_Dashboard)
 ![cppcheck-action](https://github.com/99002611/HYBRID-ELECTRIC-VHICLES/workflows/cppcheck-action/badge.svg)
